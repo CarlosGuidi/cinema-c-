@@ -1,0 +1,10 @@
+E:\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\Cinema\Cinema\bin\Debug\Cinema.exe
+E:\Cinema\Cinema\bin\Debug\Cinema.pdb
+E:\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+E:\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+E:\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+E:\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+E:\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+E:\Cinema\Cinema\obj\Debug\Cinema.exe
+E:\Cinema\Cinema\obj\Debug\Cinema.pdb
